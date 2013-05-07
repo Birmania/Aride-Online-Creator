@@ -1,0 +1,10 @@
+;Microsoft Scripting Runtime (scrrun.dll)
+NATUPnP 1.0 Type Library (hnetcfg.dll\2)
+;PaintX 1.0 Type Library (PaintX.dll)
+;DirectX 7 for Visual Basic Type Library (dx7vb.dll)
+Microsoft DAO 3.51 Object Library (DAO350.dll)
+;OLE Automation (stdole2.tlb)
+
+
+
+Le 19/01/2012 à 19h11

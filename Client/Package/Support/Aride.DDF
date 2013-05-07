@@ -1,0 +1,55 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="Client.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"Client.exe"
+"msvbvm60.dll"
+"oleaut32.dll"
+"olepro32.dll"
+"asycfilt.dll"
+"stdole2.tlb"
+"COMCAT.DLL"
+"VB6FR.DLL"
+"urlmon.dll"
+"wininet.dll"
+"ws2_32.dll"
+"IPHLPAPI.DLL"
+"aamd532.dll"
+"DAO350.DLL"
+"msjet35.dll"
+"msjter35.dll"
+"MSJINT35.DLL"
+"vbajet32.dll"
+"expsrv.dll"
+"msrd2x35.dll"
+"msrepl35.dll"
+"MSVCRT40.DLL"
+"vb5db.dll"
+"dx7vb.dll"
+"wmp.dll"
+"PaintX.dll"
+"scrrun.dll"
+"msvcrt.dll"
+"scrrnfr.dll"
+"MSWINSCN.OCX"
+"RICHTX32.OCX"
+"RICHED32.DLL"
+"RCHTXFR.DLL"
+"TABCTL3N.OCX"
+"MSINET.OCX"
+"INETFR.DLL"
+"MSCOMCTL.OCX"
+"MSCMCFR.DLL"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"

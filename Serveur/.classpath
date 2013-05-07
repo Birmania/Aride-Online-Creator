@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Antoine/Desktop/Dropbox/Aride Online/Dev/Java API/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Antoine/Desktop/Aride Online/Serveur JProject/workspace/Serveur/lib/c3p0-0.9.2-pre7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Antoine/Desktop/Aride Online/Serveur JProject/workspace/Serveur/lib/mchange-commons-java-0.2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Antoine/Desktop/Aride Online/Serveur JProject/workspace/Serveur/lib/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
