@@ -87,3 +87,8 @@ Corrections :
 Note :
 Du code permettant de faire du transfert UDP avec utilisation de l'UPNP a été retiré car abandonné dans la version courante.
 N'hésitez pas à demander le prototype si besoin car il était parfaitement fonctionnel.
+
+Défauts :
+Le serveur Java dispose d'un nombre bien trop important de thread par client ce qui augmente les risques de Deadlock et peut, à terme, nuire à ses performances.
+
+Vous pouvez contacter l'équipe en charge du développement d'Aride Online via l'adresse suivante : contact@aride-online.com
